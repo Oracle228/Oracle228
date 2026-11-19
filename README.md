@@ -9,7 +9,7 @@
 </div>
 
 <br>
-
+> https://lozyk-hex-a.pages.dev/
 > Developer. I build things, explore ideas, and enjoy figuring out how everything works.
 
 ## ⟡ About
